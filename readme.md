@@ -1,3 +1,3 @@
 # readme
 create a new branch test
-ccccccc
+create a new branch is quick and simple
