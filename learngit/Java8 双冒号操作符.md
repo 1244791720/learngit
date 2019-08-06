@@ -112,7 +112,7 @@ macbookPro.calculateValue(999.99);
 
 引用构造函数实例化对象可以非常简单:
 
-```
+```java
 @FunctionalInterface
 public interface InterfaceComputer {
     Computer create();
